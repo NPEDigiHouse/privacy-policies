@@ -1,13 +1,13 @@
 ## Privacy Policy
 
 ### Introduction
-Our privacy policy provides insights into the information collected by NPE Digital through the GaramQu app, a government application in Maros Regency. This SERVICE, offered by NPE Digital, is free of charge and intended for use as is. By using our Service, you agree to the collection and use of information as outlined in this policy. The Personal Information collected is utilized to improve the Service, and we commit to not share your information with anyone except as described in this Privacy Policy. Terms used here have the same meanings as in our Terms and Conditions, accessible on our website, unless defined otherwise in this Privacy Policy.
+Our privacy policy provides insights into the information collected by NPE Digital through the GaramQu app, a government application by [Local Government of Maros regency](https://maroskab.go.id/). This SERVICE, offered by NPE Digital, is free of charge and intended for use as is. By using our Service, you agree to the collection and use of information as outlined in this policy. The Personal Information collected is utilized to improve the Service, and we commit to not share your information with anyone except as described in this Privacy Policy. Terms used here have the same meanings as in our Terms and Conditions, accessible on our website, unless defined otherwise in this Privacy Policy.
 
 ### Source of Government Information
-This app utilizes information from a reliable and official government source. The data presented within the app is sourced from Local Government of Maros regency, ensuring accuracy and credibility.
+This app utilizes information from a reliable and official government source. The data presented within the app is sourced from [Local Government of Maros regency](https://maroskab.go.id/), ensuring accuracy and credibility.
 
 ### Disclaimer
-This mobile application is not affiliated with or endorsed by any government entity. It is an independent application developed to provide users with access to information from Local Government of Maros regency. The app is not an official representation of the government, and any views or opinions expressed within the app are those of the app developers.
+This mobile application is not affiliated with or endorsed by any government entity. It is an independent application developed to provide users with access to information from [Local Government of Maros regency](https://maroskab.go.id/). The app is not an official representation of the government, and any views or opinions expressed within the app are those of the app developers.
 
 ### Information Collection and Use
 To enhance your experience with our Service, we may ask for personally identifiable information, including but not limited to user names, email addresses, gender, location, and pictures. This information is retained and used as described in this privacy policy. The app may utilize third-party services that collect information for identification purposes.
